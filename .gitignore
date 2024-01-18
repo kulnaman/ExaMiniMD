@@ -3,3 +3,5 @@ src/KokkosCore_config.*
 build
 .cproject
 .project
+install*/
+build*/
